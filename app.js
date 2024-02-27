@@ -51,3 +51,4 @@ function mostrarTabuada (numeroMagico){
 }
 let numeroMagico = 4;
 mostrarTabuada (numeroMagico);
+//tetando emitir alterações para repositório remoto.
